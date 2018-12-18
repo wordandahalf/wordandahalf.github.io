@@ -1,0 +1,4 @@
+EquilinoxModLoader (EML) Copyright 2018 by DesertCookie and EML Contributors.
+This download is provided with the permission of DesertCookie.
+For more information, see https://https://wordandahalf.github.io/eml/eml-consent.png
+For issues concerning EML, please notify DesertCookie#3109 on Discord.

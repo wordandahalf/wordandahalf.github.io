@@ -1,2 +1,2 @@
-eml-version=0.3.4
+eml-version=0.4.0
 installer-version=0.1.0
